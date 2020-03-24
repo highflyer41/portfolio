@@ -19,6 +19,9 @@ body {
     background-position:center;
     background-attachment: fixed;
 }
+.bg2 {
+    
+}
 
 /* workaround modal-open padding issue */
 body.modal-open {
@@ -298,6 +301,15 @@ textarea {
 
 .call-to-action h2 {
     margin: 0 auto 20px;
+}
+
+#aboutbtn {
+    border: 1px solid white;
+    color: white;
+}
+#aboutbtn:hover {
+    background-color: #2BAE66FF;
+    color: black;
 }
 
 .btn.btn-primary {
